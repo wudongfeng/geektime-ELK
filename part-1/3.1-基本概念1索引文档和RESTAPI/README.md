@@ -34,6 +34,7 @@ GET /_cat/indices?v&h=i,tm&s=tm:desc
 
 ```
 
+疑问：查询的规则是什么呢？
 
 ## 相关阅读
 - 为什么不再支持单个Index下，多个Tyeps https://www.elastic.co/cn/blog/moving-from-types-to-typeless-apis-in-elasticsearch-7-0
